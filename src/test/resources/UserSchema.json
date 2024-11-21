@@ -1,0 +1,34 @@
+{
+  "token": "",
+  "refresh_token": "",
+  "user": {
+    "_id": "",
+    "teams": [
+
+    ],
+    "username": "",
+    "email": "[at]exceed-team.com (auto generated)",
+    "roles": [
+      "admin"
+    ],
+    "positions": [
+
+    ],
+    "plain_password": "",
+    "cities": [
+
+    ],
+    "companies": [
+
+    ],
+    "work_history": [
+
+    ],
+    "edu_history": [
+
+    ],
+    "cd": "2024-08-22T12:43:57.855Z",
+    "password": "8eee7019a472affe2cd0e2925529196aa1f0e84da39597caddbf76b56796c3e1760a0844df6a144c520f78f27a7db4369db866db2a4e06dab0490d55d872a978",
+    "name": "undefined undefined"
+  }
+}
